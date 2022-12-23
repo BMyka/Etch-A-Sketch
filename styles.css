@@ -21,8 +21,8 @@ h3{
   }
   
   .container {
-    width: 15cm;
-    height: 15cm;
+    min-width: 15cm;
+    min-height: 15cm;
     border: 5px solid #F5E960;
     display: flex;
     flex-wrap: wrap;
